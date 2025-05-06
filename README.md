@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @Wicayonima-Reborn
-- 👀 I’m interested in App Developer
-- 🌱 I’m currently learning Python, C#, and C++
-- 💞️ I’m looking to collaborate on School
-- 📫 How to reach me serlok ae
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I’m Wicayonima-Reborn</h1>
+<p align="center">💻 Student | 💡 Aspiring App Developer | 🌱 Lifelong Learner</p>
 
-<!---
-Wicayonima-Reborn/Wicayonima-Reborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔭 About Me
+- 🎓 Pelajar yang lagi semangat belajar ngoding dan eksplor teknologi.
+- 👀 Tertarik banget sama dunia **App Development** dan logika pemrograman.
+- 🌱 Saat ini lagi belajar **Python**, **C#**, dan **C++**.
+- 💞️ Siap kolaborasi untuk project sekolah atau komunitas belajar!
+- 📫 Gampang ditemuin, tinggal **serlok aja wkwk**.
+
+---
+
+### ⚙️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wicayonima-Reborn&show_icons=true&theme=tokyonight" width="410"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wicayonima-Reborn&theme=tokyonight" width="410"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> Aku lebih sering debugging daripada ngerjain tugas... tapi tetep lulus dong 😎
