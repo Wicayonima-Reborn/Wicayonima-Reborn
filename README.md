@@ -30,4 +30,4 @@
 ---
 
 ### ⚡ Fun Fact
-> Aku lebih sering debugging daripada ngerjain tugas... tapi tetep lulus dong 😎
+> Kalo disuruh milih antara bug di program atau AFK di ML, dia bakal pilih... tidur, biar nggak stres dua-duanya 🛌
