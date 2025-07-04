@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wicayonima-Reborn</h1>
+<h1 align="center">Hi 👋, I'm Wicayonima</h1>
 <p align="center">
   🎮 Coding enthusiast | 💻 IT Student
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Hal yang saya pelajari
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
@@ -37,5 +37,5 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
+### 🐍 MY GitHub Contributions  
 ![snake gif](https://raw.githubusercontent.com/Wicayonima-Reborn/Wicayonima-Reborn/output/github-contribution-grid-snake.svg)
