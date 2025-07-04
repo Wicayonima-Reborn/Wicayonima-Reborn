@@ -7,10 +7,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini lagi belajar **Flutter & Dart**
-- 🌱 Fokusku di **Mobile Dev** & pengembangan game
-- 🤔 Kadang juga ngulik-ngulik soal **network security & hacking**
-- 💬 Tertarik ngobrol soal: Dart, Flutter, Game Dev, Cybersecurity 
+- Saya hanya pelajar biasa yang belajar
 
 ---
 
