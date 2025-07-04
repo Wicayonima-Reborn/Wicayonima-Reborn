@@ -1,5 +1,8 @@
 name: Generate Snake Animation 🐍
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *" # setiap hari jam 00:00 UTC
