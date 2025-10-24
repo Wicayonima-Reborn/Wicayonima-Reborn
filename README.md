@@ -5,9 +5,9 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About me
 
-- Saya hanya pelajar biasa yang belajar
+- I'm just an ordinary student studying
 
 ---
 
