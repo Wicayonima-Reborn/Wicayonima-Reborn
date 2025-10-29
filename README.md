@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About me
 
-- I'm just an ordinary student studying
+- I'm just an ordinary student studying and I really like low level programming
 
 ---
 
