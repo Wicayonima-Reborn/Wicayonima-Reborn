@@ -32,8 +32,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wicayonima-Reborn&show_icons=true&theme=tokyonight" alt="Wicayonima's GitHub stats"/>
+  
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wicayonima-Reborn&show_icons=true&theme=tokyonight)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wicayonima-Reborn&layout=compact&theme=tokyonight)
 </p>
+
+
+
 
 ---
 
