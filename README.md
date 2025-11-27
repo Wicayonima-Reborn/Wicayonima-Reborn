@@ -39,8 +39,9 @@
   <br><br>
 
   <!-- Top languages -->
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wicayonima-Reborn&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
