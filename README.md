@@ -8,6 +8,7 @@
 ### 👨‍💻 About me
 
 - I'm just an ordinary student studying and I really like low level programming
+- I aspire to make my own android emulator
 
 ---
 
