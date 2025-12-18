@@ -12,7 +12,7 @@
 
 ---
 
-### 🧰 My Tech Stack And Tools
+### My Tech Stack And Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -32,12 +32,10 @@
 
 <p align="center">
 
-  <!-- Stats (versi stabil) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Wicayonima-Reborn&show_icons=true&theme=tokyonight" />
 
   <br><br>
 
-  <!-- Top languages -->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wicayonima-Reborn&layout=compact&theme=tokyonight" />
@@ -45,6 +43,6 @@
 
 ---
 
-### 🐍 MY GitHub Contributions  
+### MY GitHub Contributions  
 
 ![snake gif](https://raw.githubusercontent.com/Wicayonima-Reborn/Wicayonima-Reborn/output/github-contribution-grid-snake.svg)
