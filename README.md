@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Wicayonima</h1>
 <p align="center">
-  Software Engineer in progress • Backend & Mobile • Systems-minded
+  Software Engineer • Backend & Mobile • Systems-minded
 </p>
 
 ---
