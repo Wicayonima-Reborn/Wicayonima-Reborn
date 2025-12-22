@@ -18,21 +18,28 @@ to deepen my understanding of performance, memory management, and software inter
 ## Primary Focus
 
 ### Backend Development
-- **Go** — building fast, simple, and reliable services  
-- **Node.js (Express.js)** — REST APIs & backend logic  
-- **Rust** — performance-critical components & system-level thinking  
+
+* **Go** — building fast, simple, and reliable services
+* **Node.js (Express.js)** — REST APIs & backend logic
+* **Rust** — performance-critical components & system-level thinking
+* **Databases**
+
+  * Relational (SQL): **PostgreSQL**, **MySQL**
+  * NoSQL: **MongoDB**
 
 ### Mobile Development
-- **Flutter (Dart)** — cross-platform mobile applications  
+
+* **Flutter (Dart)** — cross-platform mobile applications
 
 ---
 
 ## Secondary Interests
 
-- Low-level & systems programming  
-- Linux environments & tooling  
-- Software architecture & performance optimization  
-- Open-source contribution  
+* Low-level & systems programming
+* Linux environments & tooling
+* Software architecture & performance optimization
+* Database design, querying, and basic performance considerations
+* Open-source contribution
 
 ---
 
@@ -46,10 +53,18 @@ to deepen my understanding of performance, memory management, and software inter
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="42"/>
 
   <!-- Mobile -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
 
+  <!-- Databases -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+
   <!-- Tools -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 </p>
@@ -58,11 +73,12 @@ to deepen my understanding of performance, memory management, and software inter
 
 ## What I’m Working On
 
-- Designing and building backend APIs  
-- Writing maintainable and scalable backend services  
-- Developing mobile apps with Flutter  
-- Contributing to open-source projects  
-- Strengthening fundamentals from systems to application level  
+* Designing and building backend APIs
+* Writing maintainable and scalable backend services
+* Developing mobile apps with Flutter
+* Working with relational and NoSQL databases
+* Contributing to open-source projects
+* Strengthening fundamentals from systems to application level
 
 ---
 
@@ -88,7 +104,8 @@ to deepen my understanding of performance, memory management, and software inter
 
 ## Notes
 
-- Backend engineering is my primary path  
-- Mobile and systems knowledge are complementary strengths  
-- Open to collaboration, code reviews, and open-source work  
-- Continuous learning over chasing hype
+* Backend engineering is my primary path
+* Mobile and systems knowledge are complementary strengths
+* Comfortable working with relational and NoSQL databases
+* Open to collaboration, code reviews, and open-source work
+* Continuous learning over chasing hype
