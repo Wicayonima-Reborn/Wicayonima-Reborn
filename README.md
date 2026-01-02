@@ -1,69 +1,66 @@
 <h1 align="center">Hi, I'm Wicayonima</h1>
 <p align="center">
-  Software Engineer • Backend & Mobile • Systems-minded
+  Software Engineer • Backend-focused • Systems-minded
 </p>
 
 ---
 
 ## About Me
 
-I’m an IT student working towards becoming a **Software Engineer**, primarily focused on
-**Backend Development**, with additional experience in **Mobile Development (Flutter)**.
+I am an IT student building my career path as a **Backend Engineer**.
+My primary focus is **backend development**, with a strong and growing interest in **systems programming** as a long-term foundation.
 
-I also actively explore **low-level and systems programming** as a serious side interest
-to deepen my understanding of performance, memory management, and software internals.
+I also have experience in **mobile development using Flutter**, but at this stage, mobile development is positioned as a **supporting skill**, not my main specialization.
+
+My goal is to understand software beyond frameworks — including performance, memory behavior, reliability, and system design fundamentals.
 
 ---
 
-## Primary Focus
+## Current Focus
 
-### Backend Development
+### Backend Engineering
 
-* **Go** — building fast, simple, and reliable services
-* **Node.js (Express.js)** — REST APIs & backend logic
-* **Rust** — performance-critical components & system-level thinking
+* **Go** — building simple, fast, and maintainable backend services
+* **Rust** — systems foundation, safety, and performance-critical components
+* **Node.js (Express.js)** — REST APIs and backend logic
 * **Databases**
 
   * Relational (SQL): **PostgreSQL**, **MySQL**
   * NoSQL: **MongoDB**
 
-### Mobile Development
+Key areas I actively focus on:
 
-* **Flutter (Dart)** — cross-platform mobile applications
+* clean architecture
+* service lifecycle & reliability
+* explicit and structured error handling
+* production-oriented API design
 
 ---
 
-## Secondary Interests
+## Secondary Skills
 
-* Low-level & systems programming
-* Linux environments & tooling
-* Software architecture & performance optimization
-* Database design, querying, and basic performance considerations
-* Open-source contribution
+* Mobile Development — **Flutter (Dart)**
+* Linux environments & CLI-first workflows
+* Basic software architecture & system design
+* Database schema design & querying
+* Open-source contribution and code reviews
 
 ---
 
 ## Tech Stack & Tools
 
 <p align="center">
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="42"/>
-
-  <!-- Mobile -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
-
-  <!-- Databases -->
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
 
-  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
@@ -71,14 +68,14 @@ to deepen my understanding of performance, memory management, and software inter
 
 ---
 
-## What I’m Working On
+## What I’m Actively Working On
 
-* Designing and building backend APIs
-* Writing maintainable and scalable backend services
-* Developing mobile apps with Flutter
-* Working with relational and NoSQL databases
-* Contributing to open-source projects
-* Strengthening fundamentals from systems to application level
+* Backend service design (API structure, lifecycle, error models)
+* Strengthening Go & Rust backend foundations
+* Database modeling and query patterns
+* CLI-first and Linux-based development workflows
+* Building projects that are production-oriented, not tutorial-only
+* Preparing repositories that are ready for open-source usage
 
 ---
 
@@ -104,8 +101,8 @@ to deepen my understanding of performance, memory management, and software inter
 
 ## Notes
 
-* Backend engineering is my primary path
-* Mobile and systems knowledge are complementary strengths
-* Comfortable working with relational and NoSQL databases
-* Open to collaboration, code reviews, and open-source work
-* Continuous learning over chasing hype
+* Backend engineering is my primary career path
+* Systems knowledge is a long-term foundation, not a trend chase
+* Mobile development is a complementary skill
+* I prioritize reliability, maintainability, and correctness over hype
+* Open to collaboration, reviews, and open-source contributions
