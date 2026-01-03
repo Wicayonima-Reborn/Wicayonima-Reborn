@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Wicayonima</h1>
+<h1 align="center">Hi, I'm Wicaksono</h1>
 <p align="center">
-  Software Engineer • Backend-focused • Systems-minded
+  Software Engineer • Backend & Mobile • Systems-minded
 </p>
 
 ---
@@ -88,21 +88,3 @@ Key areas I actively focus on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wicayonima-Reborn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wicayonima-Reborn/Wicayonima-Reborn/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## Notes
-
-* Backend engineering is my primary career path
-* Systems knowledge is a long-term foundation, not a trend chase
-* Mobile development is a complementary skill
-* I prioritize reliability, maintainability, and correctness over hype
-* Open to collaboration, reviews, and open-source contributions
