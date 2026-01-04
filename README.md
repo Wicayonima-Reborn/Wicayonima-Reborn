@@ -14,7 +14,6 @@ I also have experience in **mobile development using Flutter**, but at this stag
 
 My goal is to understand software beyond frameworks — including performance, memory behavior, reliability, and system design fundamentals.
 
----
 
 ## Current Focus
 
@@ -35,7 +34,6 @@ Key areas I actively focus on:
 * explicit and structured error handling
 * production-oriented API design
 
----
 
 ## Secondary Skills
 
