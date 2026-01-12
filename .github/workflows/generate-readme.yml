@@ -6,6 +6,9 @@ on:
       - profile.json
       - generate-readme.js
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
