@@ -1,82 +1,60 @@
 <h1 align="center">Hi, I'm Wicaksono</h1>
+
 <p align="center">
-  Software Engineer • Backend & Mobile • Systems-minded
+  Software Engineer • Backend • Mobile (Support) • Systems-minded
 </p>
 
 <p align="center">
   <a href="https://wicayonima.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-wicayonima.vercel.app-blue?style=flat-square" alt="Website">
+    https://wicayonima.vercel.app/
   </a>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-I am an IT student building my career path as a Backend Engineer. My primary focus is backend development, with a strong and growing interest in systems programming as a long-term foundation.
+IT student focusing on backend engineering with a long-term interest in systems programming.
 
-I also have experience in mobile development using Flutter, but at this stage, mobile development is positioned as a supporting skill, not my main specialization.
-
-My goal is to understand software beyond frameworks — including performance, memory behavior, reliability, and system design fundamentals.
-
----
-
-### Current Focus
-
-**Backend Engineering**
-* Go — building simple, fast, and maintainable backend services
-* Rust — systems foundation, safety, and performance-critical components
-* Node.js (Express.js) — REST APIs and backend logic
-
-**Databases**
-* Relational (SQL): PostgreSQL, MySQL
-* NoSQL: MongoDB
+**Principles**
+- Performance-aware  
+- Memory & reliability conscious  
+- Framework-agnostic thinking  
+- Strong system design fundamentals  
 
 ---
 
-### Tech Stack & Tools
+## Current Focus
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-</p>
+### Backend Engineering
+- **Go** — Simple, fast, maintainable backend services  
+- **Rust** — Systems foundation, safety, performance-critical work  
+- **Node.js** — REST APIs and backend logic  
+
+### Databases
+- **SQL**: PostgreSQL, MySQL  
+- **NoSQL**: MongoDB  
 
 ---
 
-### Secondary Skills
-
-* Mobile Development — Flutter (Dart)
-* Linux environments & CLI-first workflows
-* Basic software architecture & system design
-* Database schema design & querying
-* Open-source contribution and code reviews
+## Tech Stack
+Go, Rust, Node.js, Express.js, PostgreSQL, MySQL, MongoDB, Dart, Flutter, Linux, Git
 
 ---
 
-### What I’m Actively Working On
-
-* Backend service design (API structure, lifecycle, error models)
-* Strengthening Go & Rust backend foundations
-* Database modeling and query patterns
-* CLI-first and Linux-based development workflows
-* **Dream Goal:** Build my own Android emulator
+## Secondary Skills
+- Flutter mobile development  
+- Linux & CLI-first workflows  
+- Basic software architecture  
+- System design fundamentals  
+- Database schema design  
+- Open-source collaboration  
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wicayonima-Reborn&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wicayonima-Reborn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## What I’m Actively Working On
+- Backend API design and lifecycle management  
+- Strengthening Go & Rust backend foundations  
+- Database modeling and query patterns  
+- CLI-first development workflows  
+- **Dream Goal:** Building a custom Android emulator
