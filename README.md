@@ -3,7 +3,11 @@
   "profile": {
     "name": "Wicaksono",
     "title": "Software Engineer",
-    "focus": ["Backend", "Mobile (Support)", "Systems-minded"],
+    "focus": [
+      "Backend",
+      "Mobile (Support)",
+      "Systems-minded"
+    ],
     "website": "https://wicayonima.vercel.app/"
   },
   "about": {
@@ -22,8 +26,13 @@
       "nodejs": "REST APIs and backend logic"
     },
     "databases": {
-      "sql": ["PostgreSQL", "MySQL"],
-      "nosql": ["MongoDB"]
+      "sql": [
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "nosql": [
+        "MongoDB"
+      ]
     }
   },
   "tech_stack": [
@@ -54,5 +63,4 @@
     "Building a custom Android emulator (goal)"
   ]
 }
-
 ```
