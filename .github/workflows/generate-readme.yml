@@ -6,6 +6,8 @@ on:
       - profile.json
       - profile.schema.json
       - generate-readme.js
+      - package.json
+      - package-lock.json
 
 permissions:
   contents: write
