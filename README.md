@@ -5,7 +5,7 @@
     "title": "Software Engineer",
     "focus": [
       "Backend",
-      "Mobile (Support)",
+      "Mobile",
       "Systems-minded"
     ],
     "website": "https://wicayonima.vercel.app/"
@@ -33,6 +33,17 @@
       "nosql": [
         "MongoDB"
       ]
+    },
+    "cloud": {
+      "provider": "Google Cloud Platform",
+      "focus": [
+        "Cloud Run (serverless backend)",
+        "GKE / GKE Autopilot (container orchestration)",
+        "IAM & service accounts",
+        "Cloud Storage",
+        "Cloud SQL",
+        "Basic cloud networking"
+      ]
     }
   },
   "tech_stack": [
@@ -45,7 +56,8 @@
     "MongoDB",
     "Flutter",
     "Linux",
-    "Git"
+    "Git",
+    "Google Cloud"
   ],
   "secondary_skills": [
     "Flutter mobile development",
@@ -53,14 +65,16 @@
     "Basic software architecture",
     "System design fundamentals",
     "Database schema design",
+    "Cloud-native deployment (GCP)",
     "Open-source collaboration"
   ],
   "active_work": [
     "Backend API design and lifecycle management",
     "Strengthening Go & Rust backend foundations",
     "Database modeling and query patterns",
+    "Deploying backend services on Google Cloud",
     "CLI-first development workflows",
-    "Building a custom Android emulator (goal)"
+    "Dream project: building a story-driven game with deep narrative and solid systems"
   ]
 }
 ```
