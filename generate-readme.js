@@ -1,9 +1,11 @@
 import fs from "fs";
 import Ajv from "ajv";
+import addFormats from "ajv-formats";
 
 const mode = process.argv[2] ?? "json";
 
 const ajv = new Ajv({ allErrors: true });
+addFormats(ajv);
 
 const schema = JSON.parse(fs.readFileSync("profile.schema.json", "utf-8"));
 const data = JSON.parse(fs.readFileSync("profile.json", "utf-8"));
