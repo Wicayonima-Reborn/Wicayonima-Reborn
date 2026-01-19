@@ -5,7 +5,7 @@
     "title": "Software Engineer",
     "focus": [
       "Backend",
-      "Mobile",
+      "Mobile (Support)",
       "Systems-minded"
     ],
     "website": "https://wicayonima.vercel.app/"
