@@ -1,69 +1,86 @@
 {
   "profile": {
     "name": "Wicaksono",
-    "title": "Software Engineer",
-    "focus": ["Backend", "Mobile (Support)", "Systems-minded"],
+    "title": "AI Engineer (Systems & Backend)",
+    "focus": ["AI Backend", "ML Systems", "Cloud-native AI"],
     "website": "https://wicayonima.vercel.app/"
   },
   "about": {
-    "summary": "IT student focusing on backend engineering with a long-term interest in systems programming.",
+    "summary": "IT student focusing on AI engineering with a strong backend and systems foundation, building scalable and reliable AI-powered services.",
     "principles": [
-      "Performance-aware",
-      "Memory & reliability conscious",
-      "Framework-agnostic thinking",
-      "Strong system design fundamentals"
+      "Performance-aware AI systems",
+      "Efficient model deployment & inference",
+      "Scalable and reliable architectures",
+      "Framework-agnostic & system-level thinking"
     ]
   },
   "current_focus": {
+    "ai_engineering": {
+      "focus": [
+        "Model inference APIs",
+        "AI-powered backend services",
+        "RAG (Retrieval-Augmented Generation)",
+        "Prompt engineering & evaluation",
+        "LLM integration (API-based & open-source models)"
+      ],
+      "tools": [
+        "Python (FastAPI)",
+        "LangChain / LlamaIndex",
+        "OpenAI API / open models",
+        "Vector databases (Weaviate / Pinecone / pgvector)"
+      ]
+    },
     "backend": {
-      "go": "Simple, fast, maintainable backend services",
-      "rust": "Systems foundation, safety, performance-critical work",
-      "nodejs": "REST APIs and backend logic"
+      "go": "High-performance AI inference services",
+      "rust": "Low-level performance-critical components",
+      "nodejs": "AI API orchestration & integrations"
     },
     "databases": {
-      "sql": ["PostgreSQL", "MySQL"],
-      "nosql": ["MongoDB"]
+      "sql": ["PostgreSQL (+ pgvector)", "MySQL"],
+      "nosql": ["MongoDB"],
+      "vector": ["Pinecone", "Weaviate", "Chroma"]
     },
     "cloud": {
       "provider": "Google Cloud Platform",
       "focus": [
-        "Cloud Run (serverless backend)",
-        "GKE / GKE Autopilot (container orchestration)",
+        "Cloud Run (AI inference services)",
+        "Vertex AI (model deployment & pipelines)",
+        "GKE / Autopilot (scalable AI workloads)",
+        "Cloud Storage (dataset & model storage)",
+        "Cloud SQL & BigQuery (data pipelines)",
         "IAM & service accounts",
-        "Cloud Storage",
-        "Cloud SQL",
-        "Basic cloud networking"
+        "Cloud Functions (AI automation)"
       ]
     }
   },
   "tech_stack": [
+    "Python",
     "Go",
     "Rust",
     "Node.js",
-    "Express.js",
-    "PostgreSQL",
-    "MySQL",
+    "FastAPI",
+    "PostgreSQL (pgvector)",
     "MongoDB",
-    "Flutter",
+    "LangChain",
+    "Docker",
     "Linux",
-    "Git",
     "Google Cloud"
   ],
   "secondary_skills": [
-    "Flutter mobile development",
-    "Linux & CLI-first workflows",
-    "Basic software architecture",
-    "System design fundamentals",
-    "Database schema design",
-    "Cloud-native deployment (GCP)",
-    "Open-source collaboration"
+    "ML system design (basic)",
+    "Prompt engineering",
+    "Data pipeline fundamentals",
+    "Cloud-native AI deployment",
+    "API design for AI services",
+    "CLI-first workflows",
+    "Open-source AI ecosystem"
   ],
   "active_work": [
-    "Backend API design and lifecycle management",
-    "Strengthening Go & Rust backend foundations",
-    "Database modeling and query patterns",
-    "Deploying backend services on Google Cloud",
-    "CLI-first development workflows",
-    "Dream project: building a story-driven game with deep narrative and solid systems"
+    "Building AI-powered backend APIs",
+    "Implementing RAG pipelines",
+    "Deploying LLM services on Google Cloud",
+    "Optimizing inference performance",
+    "Exploring Rust for AI systems tooling",
+    "Dream project: story-driven AI-powered game with dynamic narrative"
   ]
 }
