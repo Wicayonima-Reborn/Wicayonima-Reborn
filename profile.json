@@ -21,17 +21,18 @@
         "AI-powered backend services",
         "RAG (Retrieval-Augmented Generation)",
         "Prompt engineering & evaluation",
-        "LLM integration (API-based & open-source models)"
+        "LLM integration (API-based & open-source models)",
+        "AI workflow automation"
       ],
       "tools": [
         "Python (FastAPI)",
         "LangChain / LlamaIndex",
         "OpenAI API / open models",
-        "Vector databases (Weaviate / Pinecone / pgvector)"
+        "Vector databases (Weaviate / Pinecone / pgvector)",
+        "n8n"
       ]
     },
     "backend": {
-      "go": "High-performance AI inference services",
       "rust": "Low-level performance-critical components",
       "nodejs": "AI API orchestration & integrations"
     },
@@ -51,17 +52,32 @@
         "IAM & service accounts",
         "Cloud Functions (AI automation)"
       ]
+    },
+    "automation": {
+      "focus": [
+        "AI workflow orchestration",
+        "LLM-powered automations",
+        "API integrations",
+        "Data processing pipelines",
+        "Agentic workflows"
+      ],
+      "tools": [
+        "n8n",
+        "Webhook-based integrations",
+        "REST APIs",
+        "Google Workspace automation"
+      ]
     }
   },
   "tech_stack": [
     "Python",
-    "Go",
     "Rust",
     "Node.js",
     "FastAPI",
     "PostgreSQL (pgvector)",
     "MongoDB",
     "LangChain",
+    "n8n",
     "Docker",
     "Linux",
     "Google Cloud"
@@ -72,6 +88,7 @@
     "Data pipeline fundamentals",
     "Cloud-native AI deployment",
     "API design for AI services",
+    "Workflow automation",
     "CLI-first workflows",
     "Open-source AI ecosystem"
   ],
@@ -79,8 +96,8 @@
     "Building AI-powered backend APIs",
     "Implementing RAG pipelines",
     "Deploying LLM services on Google Cloud",
+    "Building AI automations with n8n",
     "Optimizing inference performance",
     "Exploring Rust for AI systems tooling",
-    "Dream project: story-driven AI-powered game with dynamic narrative"
   ]
 }
