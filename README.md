@@ -2,100 +2,125 @@
 {
   "profile": {
     "name": "Wicaksono",
-    "title": "AI Engineer (Systems & Backend)",
+    "title": "AI Automation Engineer",
     "focus": [
-      "AI Backend",
-      "ML Systems",
-      "Cloud-native AI"
+      "AI Workflow Automation",
+      "n8n / Make.com",
+      "LLM Automation",
+      "API & System Integration"
     ],
     "website": "https://wicayonima.vercel.app/"
   },
   "about": {
-    "summary": "IT student focusing on AI engineering with a strong backend and systems foundation, building scalable and reliable AI-powered services.",
+    "summary": "IT student focusing on AI automation, building practical AI-powered workflows and integrations using n8n, Make.com, APIs, and LLMs.",
     "principles": [
-      "Performance-aware AI systems",
-      "Efficient model deployment & inference",
-      "Scalable and reliable architectures",
-      "Framework-agnostic & system-level thinking"
+      "Automation-first thinking",
+      "Practical AI implementation",
+      "Reliable and maintainable workflows",
+      "API-driven system integration",
+      "Reducing repetitive manual work"
     ]
   },
   "current_focus": {
-    "ai_engineering": {
+    "ai_automation": {
       "focus": [
-        "Model inference APIs",
-        "AI-powered backend services",
-        "RAG (Retrieval-Augmented Generation)",
-        "Prompt engineering & evaluation",
-        "LLM integration (API-based & open-source models)"
+        "AI workflow automation",
+        "LLM-powered workflows",
+        "AI agents and agentic workflows",
+        "Business process automation",
+        "Data processing automation",
+        "Automated reporting",
+        "Lead and customer automation",
+        "Document and content automation",
+        "Webhook-based integrations"
       ],
       "tools": [
-        "Python (FastAPI)",
-        "LangChain / LlamaIndex",
-        "OpenAI API / open models",
-        "Vector databases (Weaviate / Pinecone / pgvector)"
+        "n8n",
+        "Make.com",
+        "OpenAI API",
+        "REST APIs",
+        "Webhooks",
+        "Google Workspace",
+        "Telegram / WhatsApp integrations"
+      ]
+    },
+    "llm": {
+      "focus": [
+        "LLM API integration",
+        "Prompt engineering",
+        "AI agents",
+        "RAG workflows",
+        "Structured AI outputs",
+        "AI workflow evaluation"
       ]
     },
     "backend": {
-      "go": "High-performance AI inference services",
-      "rust": "Low-level performance-critical components",
-      "nodejs": "AI API orchestration & integrations"
+      "focus": [
+        "REST API integration",
+        "Webhook services",
+        "Custom API endpoints",
+        "Python / FastAPI for automation support",
+        "Node.js for integrations"
+      ]
     },
     "databases": {
       "sql": [
-        "PostgreSQL (+ pgvector)",
+        "PostgreSQL",
         "MySQL"
       ],
       "nosql": [
         "MongoDB"
       ],
       "vector": [
+        "pgvector",
         "Pinecone",
-        "Weaviate",
-        "Chroma"
+        "Weaviate"
       ]
     },
     "cloud": {
       "provider": "Google Cloud Platform",
       "focus": [
-        "Cloud Run (AI inference services)",
-        "Vertex AI (model deployment & pipelines)",
-        "GKE / Autopilot (scalable AI workloads)",
-        "Cloud Storage (dataset & model storage)",
-        "Cloud SQL & BigQuery (data pipelines)",
-        "IAM & service accounts",
-        "Cloud Functions (AI automation)"
+        "Cloud Run",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Cloud SQL",
+        "IAM & service accounts"
       ]
     }
   },
   "tech_stack": [
+    "n8n",
+    "Make.com",
+    "OpenAI API",
     "Python",
-    "Go",
-    "Rust",
-    "Node.js",
     "FastAPI",
-    "PostgreSQL (pgvector)",
+    "Node.js",
+    "REST APIs",
+    "Webhooks",
+    "PostgreSQL",
     "MongoDB",
-    "LangChain",
     "Docker",
-    "Linux",
     "Google Cloud"
   ],
   "secondary_skills": [
-    "ML system design (basic)",
+    "AI system design",
     "Prompt engineering",
-    "Data pipeline fundamentals",
-    "Cloud-native AI deployment",
-    "API design for AI services",
-    "CLI-first workflows",
+    "LLM integration",
+    "API design",
+    "Data pipelines",
+    "Cloud deployment",
+    "RAG fundamentals",
+    "Python scripting",
     "Open-source AI ecosystem"
   ],
   "active_work": [
-    "Building AI-powered backend APIs",
-    "Implementing RAG pipelines",
-    "Deploying LLM services on Google Cloud",
-    "Optimizing inference performance",
-    "Exploring Rust for AI systems tooling",
-    "Dream project: story-driven AI-powered game with dynamic narrative"
+    "Building AI-powered automation workflows",
+    "Building business process automations with n8n / Make.com",
+    "Integrating LLMs into business workflows",
+    "Connecting APIs and external services",
+    "Building AI agents and agentic workflows",
+    "Automating data processing and reporting",
+    "Building reusable automation systems"
   ]
 }
 ```
