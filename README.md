@@ -2,125 +2,59 @@
 {
   "profile": {
     "name": "Wicaksono",
-    "title": "AI Automation Engineer",
+    "title": "AI Automation Specialist",
     "focus": [
-      "AI Workflow Automation",
+      "AI Automation",
       "n8n / Make.com",
-      "LLM Automation",
-      "API & System Integration"
+      "Business Automation"
     ],
     "website": "https://wicayonima.vercel.app/"
   },
   "about": {
-    "summary": "IT student focusing on AI automation, building practical AI-powered workflows and integrations using n8n, Make.com, APIs, and LLMs.",
+    "summary": "Independent learner focused on AI automation and practical systems that solve real business problems and create value.",
     "principles": [
-      "Automation-first thinking",
-      "Practical AI implementation",
-      "Reliable and maintainable workflows",
-      "API-driven system integration",
-      "Reducing repetitive manual work"
+      "Practical over theoretical",
+      "Automation-first",
+      "Results-oriented",
+      "Focus on valuable and monetizable skills"
     ]
   },
   "current_focus": {
-    "ai_automation": {
-      "focus": [
-        "AI workflow automation",
-        "LLM-powered workflows",
-        "AI agents and agentic workflows",
-        "Business process automation",
-        "Data processing automation",
-        "Automated reporting",
-        "Lead and customer automation",
-        "Document and content automation",
-        "Webhook-based integrations"
-      ],
-      "tools": [
-        "n8n",
-        "Make.com",
-        "OpenAI API",
-        "REST APIs",
-        "Webhooks",
-        "Google Workspace",
-        "Telegram / WhatsApp integrations"
-      ]
-    },
-    "llm": {
-      "focus": [
-        "LLM API integration",
-        "Prompt engineering",
-        "AI agents",
-        "RAG workflows",
-        "Structured AI outputs",
-        "AI workflow evaluation"
-      ]
-    },
-    "backend": {
-      "focus": [
-        "REST API integration",
-        "Webhook services",
-        "Custom API endpoints",
-        "Python / FastAPI for automation support",
-        "Node.js for integrations"
-      ]
-    },
-    "databases": {
-      "sql": [
-        "PostgreSQL",
-        "MySQL"
-      ],
-      "nosql": [
-        "MongoDB"
-      ],
-      "vector": [
-        "pgvector",
-        "Pinecone",
-        "Weaviate"
-      ]
-    },
-    "cloud": {
-      "provider": "Google Cloud Platform",
-      "focus": [
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Cloud SQL",
-        "IAM & service accounts"
-      ]
-    }
+    "ai_automation": [
+      "n8n",
+      "Make.com",
+      "LLM automation",
+      "AI agents",
+      "API integrations",
+      "Business process automation"
+    ],
+    "supporting": [
+      "Python",
+      "REST APIs",
+      "Webhooks",
+      "Databases",
+      "Google Cloud"
+    ]
   },
   "tech_stack": [
     "n8n",
     "Make.com",
     "OpenAI API",
     "Python",
-    "FastAPI",
-    "Node.js",
     "REST APIs",
-    "Webhooks",
-    "PostgreSQL",
-    "MongoDB",
-    "Docker",
-    "Google Cloud"
-  ],
-  "secondary_skills": [
-    "AI system design",
-    "Prompt engineering",
-    "LLM integration",
-    "API design",
-    "Data pipelines",
-    "Cloud deployment",
-    "RAG fundamentals",
-    "Python scripting",
-    "Open-source AI ecosystem"
+    "Webhooks"
   ],
   "active_work": [
-    "Building AI-powered automation workflows",
-    "Building business process automations with n8n / Make.com",
-    "Integrating LLMs into business workflows",
-    "Connecting APIs and external services",
-    "Building AI agents and agentic workflows",
-    "Automating data processing and reporting",
-    "Building reusable automation systems"
+    "Building AI automations",
+    "Automating repetitive business processes",
+    "Integrating AI with existing tools",
+    "Building automation projects for practical and business use"
+  ],
+  "career_direction": [
+    "Master AI automation",
+    "Gain real business experience",
+    "Monetize automation skills",
+    "Build an independent business"
   ]
 }
 ```
