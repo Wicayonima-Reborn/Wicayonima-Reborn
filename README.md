@@ -8,7 +8,7 @@
       "n8n",
       "Make.com"
     ],
-    "website": "https://wicayonima.vercel.app/"
+    "website": "https://wicayonima-reborn.github.io/portfolios/"
   },
   "about": {
     "summary": "Freelancer building practical AI automations that simplify business workflows and repetitive tasks."
